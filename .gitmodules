@@ -31,3 +31,47 @@
 [submodule "yq"]
 	path = yq
 	url = https://github.com/mikefarah/yq.git
+[submodule "pytest"]
+	path = pytest
+	url = https://github.com/pytest-dev/pytest.git
+	shallow = true
+[submodule "git"]
+	path = git
+	url = https://github.com/git/git.git
+	shallow = true
+[submodule "gh"]
+	path = gh
+	url = https://github.com/cli/cli.git
+	shallow = true
+[submodule "docker-cli"]
+	path = docker-cli
+	url = https://github.com/docker/cli.git
+	shallow = true
+[submodule "pyright"]
+	path = pyright
+	url = https://github.com/microsoft/pyright.git
+	shallow = true
+[submodule "curl"]
+	path = curl
+	url = https://github.com/curl/curl.git
+	shallow = true
+[submodule "azure-cli"]
+	path = azure-cli
+	url = https://github.com/Azure/azure-cli.git
+	shallow = true
+[submodule "skylos"]
+	path = skylos
+	url = https://github.com/duriantaco/skylos.git
+	shallow = true
+[submodule "just"]
+	path = just
+	url = https://github.com/casey/just.git
+	shallow = true
+[submodule "import-linter"]
+	path = import-linter
+	url = https://github.com/seddonym/import-linter.git
+	shallow = true
+[submodule "dolt"]
+	path = dolt
+	url = https://github.com/dolthub/dolt.git
+	shallow = true
