@@ -86,3 +86,6 @@
 	path = dolt
 	url = https://github.com/dolthub/dolt.git
 	shallow = true
+[submodule "shrinkray"]
+	path = shrinkray
+	url = https://github.com/DRMacIver/shrinkray.git
